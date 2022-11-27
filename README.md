@@ -1,6 +1,8 @@
 # wordle
 
 
+	
+
 	Echipa este alcatuita din:
 	
 		-Mitu Iustin Aurelian, 151
@@ -13,7 +15,7 @@
 
 		Pentru rularea algoritmului scris, va rugam sa rulati fisierul main.py .
 		Algoritmul are un delay de 5 secunde pentru fiecare cuvant introdus automat.
-		Aceste 5 secunde au fost alese pentru a ne asigura ca nu exista bugg-uri in ceea ce consta tipul de executie a functiei calcul_entropie.
+		Aceste 5 secunde au fost alese pentru a ne asigura ca nu exista bugg-uri in ceea ce consta timpul de executie a functiei calcul_entropie.
 		Initial, fisierul "fisier.txt" contine cuvantul "CARTI", cuvantul pe care l-am obtinut noi ca fiind cel mai bun cuvant de inceput.
 		Conectarea celor 2 fisiere de tip .py a fost facuta prin intermediul unui fisier text , folosind multithreading.
 		
